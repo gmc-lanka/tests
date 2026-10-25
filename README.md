@@ -1,11 +1,11 @@
 # GMC Lanka – Integration Tests
 
-[![Tests CI](https://github.com/gmc-lanka/tests/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/gmc-lanka/tests/actions/workflows/ci.yml)
-
 Integration test suites for the [gmc-lanka](https://github.com/gmc-lanka) project. Unit tests
 stay next to the code in [frontend](https://github.com/gmc-lanka/frontend) and
 [backend](https://github.com/gmc-lanka/backend); the pipelines that run these suites are in
 [infra](https://github.com/gmc-lanka/infra).
+
+## Layout
 
 ## Layout
 
