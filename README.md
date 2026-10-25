@@ -7,6 +7,8 @@ stay next to the code in [frontend](https://github.com/gmc-lanka/frontend) and
 [backend](https://github.com/gmc-lanka/backend); the pipelines that run these suites are in
 [infra](https://github.com/gmc-lanka/infra).
 
+**Live site:** [gmc-lanka.lk](https://gmc-lanka.lk/)
+
 ## Layout
 
 ## Layout
