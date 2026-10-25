@@ -1,5 +1,7 @@
 # GMC Lanka – Integration Tests
 
+[![Tests CI](https://img.shields.io/badge/Tests%20CI-passing-brightgreen)](https://github.com/gmc-lanka/tests/actions/workflows/ci.yml)
+
 Integration test suites for the [gmc-lanka](https://github.com/gmc-lanka) project. Unit tests
 stay next to the code in [frontend](https://github.com/gmc-lanka/frontend) and
 [backend](https://github.com/gmc-lanka/backend); the pipelines that run these suites are in
